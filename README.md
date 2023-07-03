@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="blank"><img src="./logo.png" width="200" alt="Online Sales Logo" /></a>
+  <a href="#" target="blank"><img src="./marca.png" width="200" alt="Online Sales Logo" /></a>
 </p>
 
 ## Description
